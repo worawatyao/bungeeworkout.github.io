@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>bungee workout - Appcast</title>
         <item>
-            <title>Version 1.15.2</title>
-            <description>Minor updates and improvements.</description>
+            <title>Version 1.0.4</title>
+            <description>‣ App update alert\n ‣ Account layout improvement</description>
             <pubDate>Mon, 31 Dec 2018 12:01:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.bungeeworkout" sparkle:version="2.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
