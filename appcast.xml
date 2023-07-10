@@ -3,12 +3,12 @@
     <channel>
         <title>bungee workout - Appcast</title>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.0.3</title>
             <description><![CDATA[▸ App update alert
 ▸ Account layout improvement]]>
             </description>
-            <pubDate>Mon, 31 Dec 2018 12:01:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.bungeeworkout" sparkle:version="1.0.4" sparkle:os="android" />
+            <pubDate>Sun, 09 Jan 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.bungeeworkout" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
