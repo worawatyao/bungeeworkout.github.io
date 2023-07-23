@@ -3,6 +3,14 @@
     <channel>
         <title>bungee workout - Appcast</title>
         <item>
+            <title>Version 1.0.6</title>
+            <description><![CDATA[▸ Package class schedule layout changed
+▸ Minor ui changes]]>
+            </description>
+            <pubDate>Sun, 23 Jan 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.bungeeworkout" sparkle:version="1.0.6" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 1.0.5</title>
             <description><![CDATA[▸ Class schedule action
 ▸ Minor ui change: bgcolor]]>
